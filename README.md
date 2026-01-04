@@ -24,6 +24,7 @@ This repository contains solutions to LeetCode problems that I solve regularly. 
 | 1 | [66. Plus One](Plus%20one.cpp) | Easy | C++ | Jan 1, 2026 |
 | 2 | [961. N-Repeated Element in Size 2N Array](961.%20N-Repeated%20Element%20in%20Size%202N%20Array.cpp) | Easy | C++ | Jan 2, 2026 |
 | 3 | [1411. Number of Ways to Paint N × 3 Grid](1411.cpp) | Hard | C++ | Jan 3, 2026 |
+| 4 | [1390. Four Divisors](1390.cpp) | Medium | C++ | Jan 4, 2026 |
 
 ## 🛠️ Languages Used
 
@@ -31,9 +32,9 @@ This repository contains solutions to LeetCode problems that I solve regularly. 
 
 ## 📊 Progress
 
-- **Total Problems Solved:** 3
+- **Total Problems Solved:** 4
 - **Easy:** 2
-- **Medium:** 0
+- **Medium:** 1
 - **Hard:** 1
 
 ## 🤝 Contributing
