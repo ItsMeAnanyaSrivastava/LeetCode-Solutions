@@ -25,6 +25,7 @@ This repository contains solutions to LeetCode problems that I solve regularly. 
 | 2 | [961. N-Repeated Element in Size 2N Array](961.%20N-Repeated%20Element%20in%20Size%202N%20Array.cpp) | Easy | C++ | Jan 2, 2026 |
 | 3 | [1411. Number of Ways to Paint N × 3 Grid](1411.cpp) | Hard | C++ | Jan 3, 2026 |
 | 4 | [1390. Four Divisors](1390.cpp) | Medium | C++ | Jan 4, 2026 |
+| 5 | [1975. Maximum Matrix Sum](1975.cpp) | Medium | C++ | Jan 5, 2026 |
 
 ## 🛠️ Languages Used
 
@@ -32,9 +33,9 @@ This repository contains solutions to LeetCode problems that I solve regularly. 
 
 ## 📊 Progress
 
-- **Total Problems Solved:** 4
+- **Total Problems Solved:** 5
 - **Easy:** 2
-- **Medium:** 1
+- **Medium:** 2
 - **Hard:** 1
 
 ## 🤝 Contributing
