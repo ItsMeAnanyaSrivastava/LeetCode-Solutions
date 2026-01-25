@@ -26,7 +26,8 @@ This repository contains solutions to LeetCode problems that I solve regularly. 
 | 3 | [1411. Number of Ways to Paint N × 3 Grid](1411.cpp) | Hard | C++ | Jan 3, 2026 |
 | 4 | [1390. Four Divisors](1390.cpp) | Medium | C++ | Jan 4, 2026 |
 | 5 | [1975. Maximum Matrix Sum](1975.cpp) | Medium | C++ | Jan 5, 2026 |
-| 6 | [1877. Minimize Maximum Pair Sum in Array](1877.cpp) | Medium | C++ | Jan 6, 2026 |
+| 6 | [1877. Minimize Maximum Pair Sum in Array](1877.cpp) | Medium | C++ | Jan 24, 2026 |
+| 7 | [1984. Minimum Difference Between Highest and Lowest of K Scores](1984.cpp) | Easy | C++ | Jan 25, 2026 |
 
 ## 🛠️ Languages Used
 
@@ -34,8 +35,8 @@ This repository contains solutions to LeetCode problems that I solve regularly. 
 
 ## 📊 Progress
 
-- **Total Problems Solved:** 6
-- **Easy:** 2
+- **Total Problems Solved:** 7
+- **Easy:** 3
 - **Medium:** 3
 - **Hard:** 1
 
