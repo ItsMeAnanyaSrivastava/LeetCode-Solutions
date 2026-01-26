@@ -28,6 +28,7 @@ This repository contains solutions to LeetCode problems that I solve regularly. 
 | 5 | [1975. Maximum Matrix Sum](1975.cpp) | Medium | C++ | Jan 5, 2026 |
 | 6 | [1877. Minimize Maximum Pair Sum in Array](1877.cpp) | Medium | C++ | Jan 24, 2026 |
 | 7 | [1984. Minimum Difference Between Highest and Lowest of K Scores](1984.cpp) | Easy | C++ | Jan 25, 2026 |
+| 8 | [1200. Minimum Absolute Difference](1200.CPP) | Easy | C++ | Jan 26, 2026 |
 
 ## 🛠️ Languages Used
 
@@ -35,8 +36,8 @@ This repository contains solutions to LeetCode problems that I solve regularly. 
 
 ## 📊 Progress
 
-- **Total Problems Solved:** 7
-- **Easy:** 3
+- **Total Problems Solved:** 8
+- **Easy:** 4
 - **Medium:** 3
 - **Hard:** 1
 
