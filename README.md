@@ -29,6 +29,7 @@ This repository contains solutions to LeetCode problems that I solve regularly. 
 | 6 | [1877. Minimize Maximum Pair Sum in Array](1877.cpp) | Medium | C++ | Jan 24, 2026 |
 | 7 | [1984. Minimum Difference Between Highest and Lowest of K Scores](1984.cpp) | Easy | C++ | Jan 25, 2026 |
 | 8 | [1200. Minimum Absolute Difference](1200.CPP) | Easy | C++ | Jan 26, 2026 |
+| 9 | [744. Find Smallest Letter Greater Than Target](744.cpp) | Easy | C++ | Jan 31, 2026 |
 
 ## 🛠️ Languages Used
 
@@ -36,8 +37,8 @@ This repository contains solutions to LeetCode problems that I solve regularly. 
 
 ## 📊 Progress
 
-- **Total Problems Solved:** 8
-- **Easy:** 4
+- **Total Problems Solved:** 9
+- **Easy:** 5
 - **Medium:** 3
 - **Hard:** 1
 
